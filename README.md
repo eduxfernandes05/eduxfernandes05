@@ -1,6 +1,7 @@
 # Eduardo Fernandes
 
 📧 eduardo.x.fernandes@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-x-fernandes)
+
 📍 Lisbon, Portugal | BSc Computer Science & Engineering @ Instituto Superior Técnico (IST)
 
 ---
@@ -23,9 +24,6 @@ Former semi-professional football player turned tech enthusiast, driven by probl
 
 ## 🔥 Featured Experiences
 
-**Microsoft (Upcoming Intern)**  
-Selected for a 12-month internship focused on business solutions and cloud technologies, starting Sep 2025.
-
 **Lisbon Municipal Chamber – IT Support Specialist (2024 European Elections)**  
 Ensured 100% uptime of voting systems across 2 polling stations; trained staff and resolved technical issues in real time.
 
@@ -44,7 +42,7 @@ Involved in advanced programming and management challenges including concurrent 
 
 **Languages:** Python | C | Java | R | Assembly | Prolog | SQL | C++  
 **Tools & Platforms:** Git | Linux | macOS | Windows | Google Workspace | Docker  
-**Core Areas:** AI & Cybersecurity | Systems Programming | Concurrent & Distributed Systems  
+**Core Areas:** AI | Cybersecurity | Systems Programming | Concurrent & Distributed Systems  
 
 ---
 
@@ -63,6 +61,6 @@ Portuguese (Native) | English (Fluent) | Spanish (Basic) | French (Basic)
 
 ## 🤝 Let’s Connect
 
-Feel free to check out my projects or reach out for collaboration, internships, or tech chats! 🚀
+Feel free to check out my projects or reach out for collaboration or tech chats! 🚀
 
 
