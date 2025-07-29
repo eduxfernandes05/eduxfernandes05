@@ -1,6 +1,6 @@
 # Eduardo Fernandes
 
-📧 eduardo.x.fernandes@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-x-fernandes) | 📞 +351 965 037 254  
+📧 eduardo.x.fernandes@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-x-fernandes)
 📍 Lisbon, Portugal | BSc Computer Science & Engineering @ Instituto Superior Técnico (IST)
 
 ---
